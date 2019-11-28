@@ -55,9 +55,9 @@ print("========================================================================"
 
 * Contoh Foto Input
 
-![input1](https://github.com/fdlhrauf/Praktikumtugas6/blob/master/gambar/input1.PNG)
-
 ![input2](https://github.com/fdlhrauf/Praktikumtugas6/blob/master/gambar/input2.PNG)
+
+![input1](https://github.com/fdlhrauf/Praktikumtugas6/blob/master/gambar/input1.PNG)
 
 * Contoh Foto Output hasil input
 
